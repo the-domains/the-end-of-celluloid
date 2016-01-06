@@ -1,7 +1,7 @@
 name: The End of Celluloid
 favicon: null
-layout_spectrum: 0.6035342863760889
-typography_spectrum: 0.4669070902746171
+layout_spectrum: 1
+typography_spectrum: 0.76568
 title: The End of Celluloid
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.899348990758881
-  lightness: 0.7292219002265483
-  saturation: 0.24266517581418157
-  rhythmicContrast: 0.33905498683452606
+  brandStrength: 0.8125
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.75
 purpose: []
